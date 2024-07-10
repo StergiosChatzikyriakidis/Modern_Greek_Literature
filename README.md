@@ -1,5 +1,5 @@
 # Modern_Greek_Literature
-This repository incliudes raw text data from interwar poets and prose writers. The repository includes the following:
+This repository includes raw text data from interwar poets and prose writers. The repository includes the following:
 - Interwar_poetry: a zipped file containing interwar poetry categorized by date, author and collection, a zipped file with the collected works per author, and a zipped file with the collected works per author in tei compliant xml format 
 - Interwar_prose: a zipped file containing interwar prose categorized by date, author and work and a zipped file with the works in tei compliant xml format
 
